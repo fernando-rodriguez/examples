@@ -5,6 +5,7 @@
    $Id$
  */
 
+#include <ctime>
 #include "vermilion.h"
 
 #include "vapp.h"

@@ -5,6 +5,8 @@
    $Id$
  */
 
+#include <ctime>
+#include <cstring>
 #include "vapp.h"
 #include "vutils.h"
 

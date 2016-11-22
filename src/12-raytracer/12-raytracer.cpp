@@ -7,6 +7,7 @@
 
 // #define USE_GL3W
 #include <vermilion.h>
+#include <ctime>
 
 #include <vgl.h>
 #include "vapp.h"

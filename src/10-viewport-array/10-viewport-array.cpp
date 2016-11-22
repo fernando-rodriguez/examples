@@ -5,6 +5,7 @@
    $Id$
  */
 
+#include <time.h>
 #include "vapp.h"
 #include "vutils.h"
 #include "vbm.h"

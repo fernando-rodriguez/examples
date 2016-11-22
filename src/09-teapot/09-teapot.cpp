@@ -26,6 +26,7 @@
 
 #include <vermilion.h>
 
+#include <cmath>
 #include <iostream>
 
 #include "vapp.h"

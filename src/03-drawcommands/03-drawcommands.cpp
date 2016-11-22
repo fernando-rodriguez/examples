@@ -31,6 +31,7 @@
    $Id$
  */
 
+#include <ctime>
 #include "vapp.h"
 #include "vutils.h"
 

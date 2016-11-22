@@ -6,6 +6,7 @@
  */
 
 #include <vermilion.h>
+#include <ctime>
 
 #include "vapp.h"
 #include "vutils.h"

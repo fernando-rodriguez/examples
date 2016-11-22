@@ -25,6 +25,8 @@
  */
 
 #include <vermilion.h>
+#include <cmath>
+#include <ctime>
 
 #include "vgl.h"
 #include "vapp.h"
